@@ -8,4 +8,3 @@
 * Составил <a href="https://docs.google.com/spreadsheets/d/1gdsfbbEJ9H7GI5vaLHvEFvc3Vosrg8ID/edit?usp=drive_link&ouid=106897186254420061142&rtpof=true&sd=true">тестовую документацию</a> для тестирования API.
 * Провёл проверки при помощи Postman.
 * Найденные <a href="https://nesterenkopv.youtrack.cloud/issues?q=tag:%20%7B%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%9F%D1%80%D0%B8%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA%7D">_баги зафиксировал_</a> в YouTrack.
-* Написал отчёт о тестировании.
